@@ -1,0 +1,47 @@
+.navbar{
+  height: 55px;
+}
+
+.bg-primary{
+  transition: all 1s ease;
+}
+
+.crece{
+  height: 40px;
+  opacity: 0.5;
+}
+
+.opa:hover{
+    opacity: 0.9;
+}
+
+.footercc{
+  background-color: #000;
+  color: #fff;
+}
+
+.imgmod:hover{
+  filter: saturate(180%);
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1s);
+}
+
+.imgmody:hover{
+
+}
+
+@media only screen and (max-width: 640px){
+  .carousel-caption{
+    visibility: hidden;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .navbar{
+
+  }
+}
+/*
+-webkit-transform:scale(1.5);
+transform:scale(1.5);
+*/
