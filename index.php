@@ -18,7 +18,7 @@
       <div class="collapse navbar-collapse" id="navegacion">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item"><a href="#" class="nav-link active">Inicio</a></li>
-          <li class="nav-item"><a href="arte.html" class="nav-link">¿Comó ha influido en la paz?</a></li>
+          <li class="nav-item"><a href="arte.php" class="nav-link">¿Comó ha influido en la paz?</a></li>
           <li class="nav-item"><a href="#" class="nav-link">Sobre mi</a></li>
           <li class="nav-item"><a href="#" class="nav-link">Deja tu opinion</a></li>
         </ul>
